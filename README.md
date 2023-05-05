@@ -7,7 +7,7 @@ Répondre à la demande de KPI d'un client via un traitement de données à l'ai
 
 **Durée du projet** :  2 semaines
 
-**Programmation** :   SQL / MySQL / Workbench
+**Programmation** :   SQL / MySQL / Workbench / Power BI
 
 **KPI demandés** : Ventes : Nb de produits vendus par catégorie et par mois en N et N-1, évolution en pièces et %
 

@@ -11,3 +11,4 @@ Répondre à la demande de KPI d'un client via un traitement de données à l'ai
 
 **KPI demandés** : Ventes : Nb de produits vendus par catégorie et par mois en N et N-1, évolution en pièces et %
 
+

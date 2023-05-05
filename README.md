@@ -3,7 +3,7 @@
 Il s'agit ici du 1er projet mené pendant ma formation à la Wild Code School.
 
 ## Problématique :
-Répondre à la demande de KPI d'un client via un traitement de données à l'aide de SQL.
+Répondre à la demande de KPI d'un client via un traitement de données à l'aide de SQL 🔎👨‍💻
 
 **Durée du projet** :  2 semaines
 
